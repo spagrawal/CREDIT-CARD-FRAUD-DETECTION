@@ -1,6 +1,9 @@
 
 Credit Card Fraud Detection System
+
+
 Overview
+
 The Credit Card Fraud Detection System is a software application designed to identify and prevent fraudulent transactions in real-time. This system utilizes machine learning algorithms to analyze patterns and detect anomalies in credit card transactions, helping financial institutions and cardholders protect against unauthorized activities.
 
 Features
